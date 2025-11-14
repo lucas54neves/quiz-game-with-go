@@ -112,6 +112,7 @@ Enter your name: John
 Welcome, John!
 You will be asked 2 questions.
 Good luck!
+
  1. What is the capital of Brazil?
 [1] Brasília
 [2] Rio de Janeiro
